@@ -1,2 +1,2 @@
 # isolabel
-Toolbox for planning isotope tracer experiments
+Toolbox for planning isotope labeling experiments
